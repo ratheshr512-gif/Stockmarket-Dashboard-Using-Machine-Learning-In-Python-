@@ -75,7 +75,7 @@ streamlit run stock_dashboard.py
 If your Python file is named **stock_dashboard(1).py**, use:
 
 ```bash
-streamlit run "stock_dashboard(1).py"
+streamlit run "stock_dashboard.py"
 ```
 
 4. Your browser will automatically open the Streamlit application.
